@@ -11,6 +11,6 @@ The main objective of My Timetable Zoom 2022 is to provide a convenient way to m
 It is important to keep in mind that this project was created for personal use and tailored to a specific computer setup. To use it on another device, adjustments and modifications would be necessary.
 
 
-## Authors
+## Author
 
 - [@MartinImoberdorf](https://www.github.com/MartinImoberdorf)
